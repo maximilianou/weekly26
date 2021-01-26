@@ -1,6 +1,9 @@
 # weekly26
 serverless lambda aws
 
+## Let see this Reference
+https://dev.to/michael_timbs/get-started-with-aws-serverless-and-typescript-5hgf
+
 ### Start a new github repo, and create a lambda directory to learn AWS Lambda
 ```
 mkdir lambda
